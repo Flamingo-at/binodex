@@ -35,7 +35,7 @@ python binodex.py
 
 Temporary email addresses are used to register referrals
 
-**Successfully registered referrals are saved in** ```registered.txt``` **in the format {email}:{password}**
+**Successfully registered referrals are saved in** ```registered.txt``` **in the format** ```{email}:{password}```
 
 ## 📧 Contacts
 + Telegram - [@flamingoat](https://t.me/flamingoat)
