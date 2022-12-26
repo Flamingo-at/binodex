@@ -25,7 +25,7 @@ python binodex.py
 
 ## ✔️ Usage
 + ```Referral code``` - your referrals code
-  + Example: ```https://binodex.space/?ref=0110```, code = <i>0110</i>
+  + Example: ```https://binodex.space/?ref=0110```, code = ```0110```
 + ```Captcha key``` - key from captcha.guru(the key is on the main page)
 
 ![image](https://user-images.githubusercontent.com/119711235/209572783-62ee781d-e3ee-4f0c-a16a-6d41696421ea.png)
